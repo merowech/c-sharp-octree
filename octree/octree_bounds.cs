@@ -1,3 +1,10 @@
+// ----------------------------------
+// Namespace:   CSharpOctree
+// Class:       OctreeBounds
+// Author:      Udo Schlegel
+// Company:     DBVIS
+// ----------------------------------
+
 using System;
 
 namespace CSharpOctree {

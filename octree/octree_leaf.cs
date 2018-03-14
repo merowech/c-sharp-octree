@@ -1,3 +1,9 @@
+// ----------------------------------
+// Namespace:   CSharpOctree
+// Class:       OctreeLeaf
+// Author:      Udo Schlegel
+// Company:     DBVIS
+// ----------------------------------
 
 namespace CSharpOctree {
 

@@ -1,3 +1,10 @@
+// ----------------------------------
+// Namespace:   CSharpOctree
+// Class:       OctreeNode
+// Author:      Udo Schlegel
+// Company:     DBVIS
+// ----------------------------------
+
 using System;
 using System.Collections.Generic;
 
